@@ -1,0 +1,2 @@
+# E-Studency
+ A facial recognition system can help institutions enhance the student experience in ways both simple and complex. A face is used as an index of identity, and it can be used for recognizing students and completing a service without requiring an action or gesture by students . "E-Studency" is Attendance System using Face – Recognition which is made using core python and Used python library 'tkinter' as GUI .
